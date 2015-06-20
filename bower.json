@@ -1,0 +1,17 @@
+{
+  "name": "google.phoneValidation",
+  "version": "1.0.0",
+  "authors": [
+    "Yaniv-Kalfa <netameta1@yahoo.com>"
+  ],
+  "description": "Google phone vlaidation",
+  "main": "google.phoneValidation.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
